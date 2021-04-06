@@ -38,6 +38,79 @@
             "lose_address": "lalalagongchu",
             "lose_time": "2021.3.22"
         }],
+        "oldman_detailed": [
+        {
+            "id": 1522,
+            "name": "wang",
+            "lose_address": "lalalaxihu",
+            "lose_time": "2021.3.21",
+            "features":"没别的,就是很丑",
+            "family_phone":"17816134129",
+            "illness":"啊至磨憨完期",
+            "photo":"https://cdn.jsdelivr.net/gh/wzc520pyfm/Picbed_PicGo@master/img/examplePhoto.jpg",
+            "helpNum":65,
+            "isHelped":false
+        },
+        {
+            "id": 1522,
+            "name": "wang",
+            "lose_address": "lalalaxihu",
+            "lose_time": "2021.3.21",
+            "features":"没别的,就是很丑",
+            "family_phone":"17816134129",
+            "illness":"啊至磨憨完期",
+            "photo":"https://cdn.jsdelivr.net/gh/wzc520pyfm/Picbed_PicGo@master/img/examplePhoto.jpg",
+            "helpNum":65,
+            "isHelped":false
+        },
+        {
+            "id": 1522,
+            "name": "wang",
+            "lose_address": "lalalaxihu",
+            "lose_time": "2021.3.21",
+            "features":"没别的,就是很丑",
+            "family_phone":"17816134129",
+            "illness":"啊至磨憨完期",
+            "photo":"https://cdn.jsdelivr.net/gh/wzc520pyfm/Picbed_PicGo@master/img/examplePhoto.jpg",
+            "helpNum":65,
+            "isHelped":false
+        },
+        {
+            "id": 1522,
+            "name": "wang",
+            "lose_address": "lalalaxihu",
+            "lose_time": "2021.3.21",
+            "features":"没别的,就是很丑",
+            "family_phone":"17816134129",
+            "illness":"啊至磨憨完期",
+            "photo":"https://cdn.jsdelivr.net/gh/wzc520pyfm/Picbed_PicGo@master/img/examplePhoto.jpg",
+            "helpNum":65,
+            "isHelped":false
+        },
+        {
+            "id": 1522,
+            "name": "wang",
+            "lose_address": "lalalaxihu",
+            "lose_time": "2021.3.21",
+            "features":"没别的,就是很丑",
+            "family_phone":"17816134129",
+            "illness":"啊至磨憨完期",
+            "photo":"https://cdn.jsdelivr.net/gh/wzc520pyfm/Picbed_PicGo@master/img/examplePhoto.jpg",
+            "helpNum":65,
+            "isHelped":false
+        },
+        {
+            "id": 1522,
+            "name": "wang",
+            "lose_address": "lalalaxihu",
+            "lose_time": "2021.3.21",
+            "features":"没别的,就是很丑",
+            "family_phone":"17816134129",
+            "illness":"啊至磨憨完期",
+            "photo":"https://cdn.jsdelivr.net/gh/wzc520pyfm/Picbed_PicGo@master/img/examplePhoto.jpg",
+            "helpNum":65,
+            "isHelped":false
+        }],
         "oldman_short_find": [
         {
             "id": 1522,
